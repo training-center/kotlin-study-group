@@ -1,14 +1,10 @@
-# template-study-group
-
+# kotlin-study-group
 Repositório do grupo de estudos sobre Kotlin do [Training Center](https://training-center.github.io).
 
 <p align="center">
   <img src="assets/kotlin-logo.svg" alt="Logo do Kotlin">
   <img src="assets/training-center-logo.svg" alt="Logo do Training Center">
 </p>
-
-# kotlin-study-group
-Repositório do grupo de estudos de Kotlin do Training Center. 
 
 ## Como funciona
 

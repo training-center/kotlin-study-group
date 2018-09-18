@@ -1,5 +1,7 @@
 ## Livros sobre Kotlin
 
+Repositório destinado a listar livros impressos ou e-books gratuitos ou pagos auxiliando no processo de aprendizagem dos membros do grupo de estudos.
+
 ### Gratuitos
 - [Kotlin in Action](https://www.manning.com/books/kotlin-in-action#downloads) - Demo :us:
 - [Kotlin Notes for Professionals](https://books.goalkicker.com/KotlinBook/) :us:

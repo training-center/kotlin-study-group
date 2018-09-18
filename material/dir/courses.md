@@ -1,5 +1,7 @@
 ## Cursos de Kotlin
 
+Repositório destinado a listar cursos gratuitos e pagos que possam auxiliar no desenvolvimento e compreensão da linguagem.
+
 ### Gratuitos
 - [Curso Kotlin](https://www.youtube.com/watch?v=5BSSq921XNo&list=PLmcyA-BbqsvJnOZoGNHPMF1dCBq0m6Qzg) :brazil:
 - [Kotlin para desenvolvedores Android](https://br.udacity.com/course/kotlin-for-android-developers--ud888) :us:
